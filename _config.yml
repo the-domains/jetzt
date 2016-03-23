@@ -1,0 +1,28 @@
+name: Jetzt
+favicon: null
+layout_spectrum: 0.34925378067418933
+typography_spectrum: 0.9980077934451401
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.05588663276284933
+  lightness: 0.7492456939071417
+  saturation: 0.7595709126908332
+  rhythmicContrast: 0.20383089827373624
+purpose: []
